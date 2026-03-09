@@ -215,6 +215,15 @@
 </details>
 
 <details>
+  <summary><b>Kilo Gateway Auth</b> <img src="https://badgen.net/github/stars/JungHoonGhae/opencode-kilo-auth" height="14"/> - <i>Kilo Gateway provider</i></summary>
+  <blockquote>
+    Adds Kilo Gateway provider support to OpenCode.
+    <br><br>
+    <a href="https://github.com/JungHoonGhae/opencode-kilo-auth">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
+<details>
   <summary><b>Micode</b> <img src="https://badgen.net/github/stars/vtemian/micode" height="14"/> - <i>Brainstorm-Plan-Implement workflow</i></summary>
   <blockquote>
     Structured workflow with session continuity, subagent orchestration, git worktree isolation, and AST-aware tools.
